@@ -1,0 +1,802 @@
+[
+  {
+    "order_id": "08b52155-fa29-490c-9dff-c45521af6923",
+    "customer": "Christina Shields",
+    "product": "Foundation",
+    "price": 24.72,
+    "quantity": 4,
+    "timestamp": "2025-05-15T16:29:38.229860"
+  },
+  {
+    "order_id": "51705f9f-3057-423a-8aac-a83b4d133c20",
+    "customer": "Bradley Rose",
+    "product": "Foundation",
+    "price": 38.74,
+    "quantity": 5,
+    "timestamp": "2025-05-11T16:29:38.229928"
+  },
+  {
+    "order_id": "e182fe84-8fae-450c-a5c1-fb4e40faede5",
+    "customer": "Sandra Anderson",
+    "product": "Foundation",
+    "price": 78.98,
+    "quantity": 1,
+    "timestamp": "2025-05-11T16:29:38.229981"
+  },
+  {
+    "order_id": "ac71f8a3-75b6-4807-ae9e-7b3849273a44",
+    "customer": "Michael Shields",
+    "product": "Serum",
+    "price": 54.82,
+    "quantity": 1,
+    "timestamp": "2025-05-21T16:29:38.230030"
+  },
+  {
+    "order_id": "fcad845e-915d-4fae-b069-2e4dd0900dd6",
+    "customer": "Rodney Jordan",
+    "product": "Moisturizer",
+    "price": 30.4,
+    "quantity": 2,
+    "timestamp": "2025-05-16T16:29:38.230077"
+  },
+  {
+    "order_id": "b56d039a-aa26-467e-a499-f9b55ee21b13",
+    "customer": "Derrick Hanson",
+    "product": "Moisturizer",
+    "price": 78.56,
+    "quantity": 3,
+    "timestamp": "2025-05-17T16:29:38.230124"
+  },
+  {
+    "order_id": "00e9cc7a-a29c-48fa-88d3-d1d89d27ec21",
+    "customer": "Angelica Mata",
+    "product": "Serum",
+    "price": 31.28,
+    "quantity": 4,
+    "timestamp": "2025-05-20T16:29:38.230171"
+  },
+  {
+    "order_id": "6450efa0-68cc-4f68-b9c0-828a9c43cab5",
+    "customer": "Jerry Mccormick",
+    "product": "Lipstick",
+    "price": 53.03,
+    "quantity": 1,
+    "timestamp": "2025-05-10T16:29:38.230217"
+  },
+  {
+    "order_id": "092e3bda-ad54-4483-a164-5e6ccb31fe1f",
+    "customer": "Amy Trujillo",
+    "product": "Foundation",
+    "price": 13.06,
+    "quantity": 2,
+    "timestamp": "2025-05-17T16:29:38.230264"
+  },
+  {
+    "order_id": "fe1f10f4-ba19-4b51-959f-ba01bc60946e",
+    "customer": "Kimberly May",
+    "product": "Serum",
+    "price": 29.1,
+    "quantity": 5,
+    "timestamp": "2025-05-10T16:29:38.230311"
+  },
+  {
+    "order_id": "2362337b-844b-4ba2-86e0-9f2475a081c6",
+    "customer": "Randy Lewis",
+    "product": "Serum",
+    "price": 93.14,
+    "quantity": 3,
+    "timestamp": "2025-05-09T16:29:38.230356"
+  },
+  {
+    "order_id": "918585e4-640e-4bce-a5c6-45b359f3631d",
+    "customer": "Jorge Lawrence",
+    "product": "Serum",
+    "price": 42.24,
+    "quantity": 3,
+    "timestamp": "2025-05-11T16:29:38.230402"
+  },
+  {
+    "order_id": "955efb2b-44c0-40e1-8243-172d2678393e",
+    "customer": "Kim Kaufman",
+    "product": "Serum",
+    "price": 43.69,
+    "quantity": 1,
+    "timestamp": "2025-05-13T16:29:38.230448"
+  },
+  {
+    "order_id": "a029e3a0-f51a-403b-a30e-c8686a44327e",
+    "customer": "Teresa Morales",
+    "product": "Foundation",
+    "price": 22.87,
+    "quantity": 5,
+    "timestamp": "2025-05-10T16:29:38.230495"
+  },
+  {
+    "order_id": "7b60298b-48af-49be-8112-2014be0bdc61",
+    "customer": "Michelle Brown",
+    "product": "Eyeliner",
+    "price": 46.55,
+    "quantity": 4,
+    "timestamp": "2025-05-07T16:29:38.230541"
+  },
+  {
+    "order_id": "8c599a77-51de-45ef-801c-c9a74a376e5f",
+    "customer": "Christina King",
+    "product": "Foundation",
+    "price": 24.77,
+    "quantity": 5,
+    "timestamp": "2025-05-11T16:29:38.230588"
+  },
+  {
+    "order_id": "4b89954f-95d3-43d8-8996-9b45039253fd",
+    "customer": "Abigail Lloyd",
+    "product": "Moisturizer",
+    "price": 79.05,
+    "quantity": 3,
+    "timestamp": "2025-05-11T16:29:38.230634"
+  },
+  {
+    "order_id": "3613ba4e-86cc-4282-a37c-b242137b5086",
+    "customer": "Jacqueline Jones",
+    "product": "Lipstick",
+    "price": 41.61,
+    "quantity": 4,
+    "timestamp": "2025-05-13T16:29:38.230683"
+  },
+  {
+    "order_id": "845f91ec-6a7f-4c63-b64e-2aa02e301785",
+    "customer": "Gina Love",
+    "product": "Serum",
+    "price": 94.87,
+    "quantity": 2,
+    "timestamp": "2025-05-18T16:29:38.230730"
+  },
+  {
+    "order_id": "f7b61626-1221-4542-a972-4f7f49bab874",
+    "customer": "Anita Schultz",
+    "product": "Serum",
+    "price": 31.09,
+    "quantity": 5,
+    "timestamp": "2025-05-15T16:29:38.230778"
+  },
+  {
+    "order_id": "e9baf6fe-6872-41e3-8eea-25319f13d0cc",
+    "customer": "Mark Burton",
+    "product": "Moisturizer",
+    "price": 80.96,
+    "quantity": 4,
+    "timestamp": "2025-05-19T16:29:38.230824"
+  },
+  {
+    "order_id": "2f0548f1-3817-49a0-b7dd-2c20846001b6",
+    "customer": "Manuel Ward",
+    "product": "Foundation",
+    "price": 24.57,
+    "quantity": 2,
+    "timestamp": "2025-05-15T16:29:38.230869"
+  },
+  {
+    "order_id": "0e340610-bb12-48fb-9fc1-18da6dc915bb",
+    "customer": "Kristie Gomez",
+    "product": "Eyeliner",
+    "price": 50.51,
+    "quantity": 2,
+    "timestamp": "2025-05-17T16:29:38.230916"
+  },
+  {
+    "order_id": "a5571965-92d6-4802-87ca-4f069cfd2caa",
+    "customer": "Leslie Johnson",
+    "product": "Serum",
+    "price": 82.13,
+    "quantity": 4,
+    "timestamp": "2025-05-09T16:29:38.230964"
+  },
+  {
+    "order_id": "72ab52f3-199c-4b7f-bb32-2417ac894133",
+    "customer": "Evelyn Bryant",
+    "product": "Serum",
+    "price": 67.99,
+    "quantity": 4,
+    "timestamp": "2025-05-13T16:29:38.231011"
+  },
+  {
+    "order_id": "d8482dac-c657-42f3-98a4-eaba4721eb0e",
+    "customer": "Jesse Shaw",
+    "product": "Lipstick",
+    "price": 90.61,
+    "quantity": 1,
+    "timestamp": "2025-05-10T16:29:38.231057"
+  },
+  {
+    "order_id": "af074d9c-703e-4578-a6ea-182d7d19a64e",
+    "customer": "Elizabeth Rice",
+    "product": "Moisturizer",
+    "price": 48.21,
+    "quantity": 1,
+    "timestamp": "2025-05-18T16:29:38.231104"
+  },
+  {
+    "order_id": "1cef17ee-f9b0-43bf-b19d-b81023306139",
+    "customer": "Kyle Bailey",
+    "product": "Foundation",
+    "price": 63.4,
+    "quantity": 4,
+    "timestamp": "2025-05-21T16:29:38.231150"
+  },
+  {
+    "order_id": "bb636d91-18f2-44d8-b86d-0836b2780e9f",
+    "customer": "Paul Yu",
+    "product": "Lipstick",
+    "price": 92.95,
+    "quantity": 3,
+    "timestamp": "2025-05-21T16:29:38.231196"
+  },
+  {
+    "order_id": "bad5c681-d6bb-42af-9b5a-0f6b606ddbc3",
+    "customer": "Donna Gonzales",
+    "product": "Serum",
+    "price": 60.88,
+    "quantity": 3,
+    "timestamp": "2025-05-18T16:29:38.231252"
+  },
+  {
+    "order_id": "38340608-8dbf-41b1-8c83-12d1bee6339c",
+    "customer": "Jordan Huber",
+    "product": "Foundation",
+    "price": 27.75,
+    "quantity": 3,
+    "timestamp": "2025-05-16T16:29:38.231301"
+  },
+  {
+    "order_id": "bae3f22a-d699-4dcd-808f-0c1da3fc16ed",
+    "customer": "Jonathon Bell",
+    "product": "Moisturizer",
+    "price": 61.39,
+    "quantity": 4,
+    "timestamp": "2025-05-19T16:29:38.231347"
+  },
+  {
+    "order_id": "27eead44-9112-4b85-9ec6-f61c365535fe",
+    "customer": "Alejandro Malone",
+    "product": "Serum",
+    "price": 83.05,
+    "quantity": 2,
+    "timestamp": "2025-05-16T16:29:38.231397"
+  },
+  {
+    "order_id": "edb87148-ceee-4ed8-a4b9-da9f22878605",
+    "customer": "Ashley Foster",
+    "product": "Foundation",
+    "price": 76.76,
+    "quantity": 1,
+    "timestamp": "2025-05-09T16:29:38.231444"
+  },
+  {
+    "order_id": "3bc7c1e2-c84d-4893-92b1-34e0068b7733",
+    "customer": "Jacqueline Jackson",
+    "product": "Lipstick",
+    "price": 12.69,
+    "quantity": 3,
+    "timestamp": "2025-05-11T16:29:38.231491"
+  },
+  {
+    "order_id": "759b5631-ea55-42d0-a75d-1bc41cfa88d1",
+    "customer": "Dr. Maria Martinez",
+    "product": "Serum",
+    "price": 23.93,
+    "quantity": 5,
+    "timestamp": "2025-05-20T16:29:38.231540"
+  },
+  {
+    "order_id": "fbfa5900-73a0-405f-98f3-572c241e57d1",
+    "customer": "Dawn Reed",
+    "product": "Moisturizer",
+    "price": 49.89,
+    "quantity": 3,
+    "timestamp": "2025-05-15T16:29:38.231586"
+  },
+  {
+    "order_id": "e5c67aac-bc2a-4555-8d1e-c0e6bae3dbb3",
+    "customer": "Jeffrey Gillespie",
+    "product": "Moisturizer",
+    "price": 29.68,
+    "quantity": 4,
+    "timestamp": "2025-05-07T16:29:38.231632"
+  },
+  {
+    "order_id": "e977e40e-ee88-4f5f-8cea-b02d782b146f",
+    "customer": "Michael Barnes",
+    "product": "Moisturizer",
+    "price": 88.17,
+    "quantity": 4,
+    "timestamp": "2025-05-17T16:29:38.231677"
+  },
+  {
+    "order_id": "61cbf328-dcce-4d77-980c-dd0f8b236e02",
+    "customer": "Steven Gibbs",
+    "product": "Lipstick",
+    "price": 28.35,
+    "quantity": 1,
+    "timestamp": "2025-05-16T16:29:38.231723"
+  },
+  {
+    "order_id": "6206c523-7753-4171-b0dd-02cf8074de4b",
+    "customer": "Julie Coleman",
+    "product": "Moisturizer",
+    "price": 99.99,
+    "quantity": 3,
+    "timestamp": "2025-05-09T16:29:38.231770"
+  },
+  {
+    "order_id": "40cb2c71-5e9f-46b8-a435-69159e2219f3",
+    "customer": "Kathryn Mckee",
+    "product": "Eyeliner",
+    "price": 44.8,
+    "quantity": 4,
+    "timestamp": "2025-05-21T16:29:38.231816"
+  },
+  {
+    "order_id": "e21102a6-ce51-4ef5-bbd2-202bd4de4609",
+    "customer": "Joseph Leblanc",
+    "product": "Lipstick",
+    "price": 75.38,
+    "quantity": 2,
+    "timestamp": "2025-05-16T16:29:38.231861"
+  },
+  {
+    "order_id": "86f86afc-b85c-4706-bf0f-53634fed3cb1",
+    "customer": "Paul Khan",
+    "product": "Serum",
+    "price": 62.71,
+    "quantity": 5,
+    "timestamp": "2025-05-21T16:29:38.231907"
+  },
+  {
+    "order_id": "a420befe-71c1-47d3-b1fc-a28932d202bb",
+    "customer": "Melissa Pratt",
+    "product": "Foundation",
+    "price": 47.48,
+    "quantity": 4,
+    "timestamp": "2025-05-14T16:29:38.231954"
+  },
+  {
+    "order_id": "423476a8-9ae6-4d5f-a311-06c91a0bc28f",
+    "customer": "Latoya Brown",
+    "product": "Eyeliner",
+    "price": 17.72,
+    "quantity": 1,
+    "timestamp": "2025-05-11T16:29:38.232000"
+  },
+  {
+    "order_id": "24e441d4-320a-4ed5-9146-201abd37f262",
+    "customer": "Amber Gallagher",
+    "product": "Serum",
+    "price": 66.19,
+    "quantity": 4,
+    "timestamp": "2025-05-12T16:29:38.232046"
+  },
+  {
+    "order_id": "887c74e3-27cc-41cc-9319-32e54b88d0ce",
+    "customer": "Peter Cruz",
+    "product": "Lipstick",
+    "price": 55.08,
+    "quantity": 1,
+    "timestamp": "2025-05-19T16:29:38.232092"
+  },
+  {
+    "order_id": "ed226430-88d3-43d5-8307-abbe66ef63eb",
+    "customer": "Jeffrey Collins",
+    "product": "Serum",
+    "price": 96.64,
+    "quantity": 1,
+    "timestamp": "2025-05-20T16:29:38.232138"
+  },
+  {
+    "order_id": "ac3fb998-b811-415a-ae00-783447b03940",
+    "customer": "Ronald Hughes",
+    "product": "Eyeliner",
+    "price": 92.69,
+    "quantity": 4,
+    "timestamp": "2025-05-21T16:29:38.232183"
+  },
+  {
+    "order_id": "6a4708ad-53ab-4880-a693-bc192e0afe29",
+    "customer": "Jessica Ray",
+    "product": "Eyeliner",
+    "price": 51.5,
+    "quantity": 4,
+    "timestamp": "2025-05-12T16:29:38.232230"
+  },
+  {
+    "order_id": "7193ca24-4012-4c8c-a821-468173784fbf",
+    "customer": "Elizabeth Huff",
+    "product": "Lipstick",
+    "price": 62.94,
+    "quantity": 4,
+    "timestamp": "2025-05-15T16:29:38.232276"
+  },
+  {
+    "order_id": "fe5ac8f6-93f1-4f66-b230-cd7902663079",
+    "customer": "Robin Hess",
+    "product": "Foundation",
+    "price": 18.62,
+    "quantity": 1,
+    "timestamp": "2025-05-18T16:29:38.232323"
+  },
+  {
+    "order_id": "6da16268-12d2-4b42-a406-dc74a4e6b253",
+    "customer": "Christopher Davis",
+    "product": "Foundation",
+    "price": 54.91,
+    "quantity": 1,
+    "timestamp": "2025-05-21T16:29:38.232373"
+  },
+  {
+    "order_id": "67cfb1af-d896-48b1-ba13-ead4bb2ccc2b",
+    "customer": "Brady Norton",
+    "product": "Eyeliner",
+    "price": 69.54,
+    "quantity": 2,
+    "timestamp": "2025-05-07T16:29:38.232419"
+  },
+  {
+    "order_id": "32d99766-af81-472e-9ac8-e64c652e0f45",
+    "customer": "Ernest Rojas",
+    "product": "Lipstick",
+    "price": 96.58,
+    "quantity": 2,
+    "timestamp": "2025-05-10T16:29:38.232464"
+  },
+  {
+    "order_id": "f2b5ab21-1143-4d51-bfeb-fa9ec2080643",
+    "customer": "Daniel Perez",
+    "product": "Foundation",
+    "price": 59.34,
+    "quantity": 3,
+    "timestamp": "2025-05-07T16:29:38.232510"
+  },
+  {
+    "order_id": "b2548b05-efb6-4cc0-8dcb-3c8378deb495",
+    "customer": "Paul Love",
+    "product": "Moisturizer",
+    "price": 70.54,
+    "quantity": 1,
+    "timestamp": "2025-05-10T16:29:38.232555"
+  },
+  {
+    "order_id": "bfe32130-7fa4-4930-adce-89f9dc602309",
+    "customer": "Alicia Miller",
+    "product": "Lipstick",
+    "price": 99.76,
+    "quantity": 4,
+    "timestamp": "2025-05-20T16:29:38.232602"
+  },
+  {
+    "order_id": "ded780ff-e3ef-4ec2-bb32-bee945cbe79c",
+    "customer": "Amanda Duarte",
+    "product": "Eyeliner",
+    "price": 54.12,
+    "quantity": 3,
+    "timestamp": "2025-05-14T16:29:38.232649"
+  },
+  {
+    "order_id": "0ac78b26-d1c6-44aa-bc91-2ebcc9ee12c4",
+    "customer": "Amy Rollins",
+    "product": "Moisturizer",
+    "price": 66.79,
+    "quantity": 3,
+    "timestamp": "2025-05-12T16:29:38.232695"
+  },
+  {
+    "order_id": "7fce99a9-c3d6-4fc2-b88a-be78a1c71065",
+    "customer": "Steven Rodriguez",
+    "product": "Eyeliner",
+    "price": 78.21,
+    "quantity": 3,
+    "timestamp": "2025-05-13T16:29:38.232741"
+  },
+  {
+    "order_id": "0c5d3da4-2d9e-41b7-9542-daa59a13f4a8",
+    "customer": "Audrey Merritt",
+    "product": "Moisturizer",
+    "price": 87.5,
+    "quantity": 3,
+    "timestamp": "2025-05-17T16:29:38.232787"
+  },
+  {
+    "order_id": "a33a262b-e4b9-4578-9ea3-031d6432a87a",
+    "customer": "Stephanie Kerr",
+    "product": "Foundation",
+    "price": 72.72,
+    "quantity": 4,
+    "timestamp": "2025-05-16T16:29:38.232834"
+  },
+  {
+    "order_id": "3bd23ff1-03d2-497b-9e4a-0d3322a758df",
+    "customer": "Richard Sparks II",
+    "product": "Foundation",
+    "price": 47.7,
+    "quantity": 5,
+    "timestamp": "2025-05-17T16:29:38.232882"
+  },
+  {
+    "order_id": "cc432439-2f38-4713-a9c9-179e4ff3c87a",
+    "customer": "Andrew Smith",
+    "product": "Lipstick",
+    "price": 10.66,
+    "quantity": 2,
+    "timestamp": "2025-05-20T16:29:38.232929"
+  },
+  {
+    "order_id": "bd637cd1-6142-4d88-b0ba-321b30475062",
+    "customer": "Phillip Williams",
+    "product": "Serum",
+    "price": 39.65,
+    "quantity": 1,
+    "timestamp": "2025-05-21T16:29:38.232975"
+  },
+  {
+    "order_id": "f80ec86a-5c21-4195-840f-6e1c6dc89307",
+    "customer": "Paige Cruz",
+    "product": "Moisturizer",
+    "price": 13.32,
+    "quantity": 2,
+    "timestamp": "2025-05-17T16:29:38.233021"
+  },
+  {
+    "order_id": "9ad69f2a-7549-4f9e-b407-e4bbcb848c5a",
+    "customer": "Patricia Miller",
+    "product": "Serum",
+    "price": 14.11,
+    "quantity": 1,
+    "timestamp": "2025-05-12T16:29:38.233068"
+  },
+  {
+    "order_id": "3de53f72-d3e3-4539-9d97-71db46f65852",
+    "customer": "Lauren Powell",
+    "product": "Serum",
+    "price": 73.75,
+    "quantity": 3,
+    "timestamp": "2025-05-11T16:29:38.233114"
+  },
+  {
+    "order_id": "94a6271f-e089-4c2d-8e74-7cf277e20dfc",
+    "customer": "Tara Sparks",
+    "product": "Moisturizer",
+    "price": 95.86,
+    "quantity": 4,
+    "timestamp": "2025-05-13T16:29:38.233161"
+  },
+  {
+    "order_id": "a5bf2f05-719d-4fcf-8de1-cbe4eb2e7011",
+    "customer": "Michelle Banks",
+    "product": "Serum",
+    "price": 50.61,
+    "quantity": 3,
+    "timestamp": "2025-05-21T16:29:38.233207"
+  },
+  {
+    "order_id": "051ae1a6-bd6c-4576-b90f-48d843bc0e70",
+    "customer": "Logan Paul",
+    "product": "Serum",
+    "price": 57.84,
+    "quantity": 4,
+    "timestamp": "2025-05-11T16:29:38.233253"
+  },
+  {
+    "order_id": "42d7f45b-85d9-4f52-9d00-4458a12425b7",
+    "customer": "Christine Walters",
+    "product": "Serum",
+    "price": 34.55,
+    "quantity": 4,
+    "timestamp": "2025-05-08T16:29:38.233299"
+  },
+  {
+    "order_id": "4cd95d70-8175-4290-b5e4-0a4de1e5cac4",
+    "customer": "Susan Terry",
+    "product": "Serum",
+    "price": 55.98,
+    "quantity": 4,
+    "timestamp": "2025-05-14T16:29:38.233346"
+  },
+  {
+    "order_id": "af9cf8c3-628a-46d9-b3fb-f3f7d76aba5b",
+    "customer": "Holly Wells",
+    "product": "Eyeliner",
+    "price": 90.53,
+    "quantity": 2,
+    "timestamp": "2025-05-21T16:29:38.233392"
+  },
+  {
+    "order_id": "0e921910-483c-4286-b672-85ffa9278afe",
+    "customer": "Renee Lopez",
+    "product": "Lipstick",
+    "price": 17.79,
+    "quantity": 5,
+    "timestamp": "2025-05-09T16:29:38.233438"
+  },
+  {
+    "order_id": "c051885b-0630-44f1-a853-11194d3fc3fe",
+    "customer": "Sean Garcia",
+    "product": "Lipstick",
+    "price": 80.67,
+    "quantity": 1,
+    "timestamp": "2025-05-13T16:29:38.233484"
+  },
+  {
+    "order_id": "2ca7508f-088b-4110-8fe3-65050c1c3ae5",
+    "customer": "Derek Jacobs",
+    "product": "Serum",
+    "price": 69.81,
+    "quantity": 4,
+    "timestamp": "2025-05-19T16:29:38.233529"
+  },
+  {
+    "order_id": "3b576ba4-2e84-4363-8e93-40d56cb73d70",
+    "customer": "Anthony Wagner",
+    "product": "Lipstick",
+    "price": 92.62,
+    "quantity": 2,
+    "timestamp": "2025-05-19T16:29:38.233575"
+  },
+  {
+    "order_id": "02a9ee24-a574-4cb9-8c3c-c47a2e724e92",
+    "customer": "Justin Huynh",
+    "product": "Eyeliner",
+    "price": 93.25,
+    "quantity": 4,
+    "timestamp": "2025-05-17T16:29:38.233620"
+  },
+  {
+    "order_id": "a1714dce-ebce-489e-92f5-8fa221a280a5",
+    "customer": "Kendra Stein",
+    "product": "Eyeliner",
+    "price": 28.05,
+    "quantity": 1,
+    "timestamp": "2025-05-18T16:29:38.233667"
+  },
+  {
+    "order_id": "3becddef-3616-43ab-a9aa-341f514fb405",
+    "customer": "Heather Morris",
+    "product": "Lipstick",
+    "price": 86.2,
+    "quantity": 3,
+    "timestamp": "2025-05-19T16:29:38.233720"
+  },
+  {
+    "order_id": "932586c6-9267-4dc8-8b5c-07186d0d205d",
+    "customer": "Veronica Barnes",
+    "product": "Moisturizer",
+    "price": 76.96,
+    "quantity": 2,
+    "timestamp": "2025-05-14T16:29:38.233766"
+  },
+  {
+    "order_id": "1c442b5b-764c-4f97-a044-a48fbd885a80",
+    "customer": "Jennifer Soto",
+    "product": "Moisturizer",
+    "price": 34.76,
+    "quantity": 2,
+    "timestamp": "2025-05-20T16:29:38.233813"
+  },
+  {
+    "order_id": "253b712a-5979-4e64-a495-a51e1b725b0f",
+    "customer": "David Yu",
+    "product": "Lipstick",
+    "price": 71.35,
+    "quantity": 2,
+    "timestamp": "2025-05-08T16:29:38.233858"
+  },
+  {
+    "order_id": "126bf017-7279-4972-b4d4-222c0c8b9ed4",
+    "customer": "John Smith",
+    "product": "Moisturizer",
+    "price": 88.76,
+    "quantity": 4,
+    "timestamp": "2025-05-12T16:29:38.233905"
+  },
+  {
+    "order_id": "69598ea5-c41d-43a6-b8c5-8a2732c68cb3",
+    "customer": "Juan Allen",
+    "product": "Moisturizer",
+    "price": 74.16,
+    "quantity": 3,
+    "timestamp": "2025-05-15T16:29:38.233953"
+  },
+  {
+    "order_id": "e4bb4b98-46ab-48a2-b7ce-11021eddcc33",
+    "customer": "Lori Smith",
+    "product": "Eyeliner",
+    "price": 29.18,
+    "quantity": 5,
+    "timestamp": "2025-05-20T16:29:38.234001"
+  },
+  {
+    "order_id": "85758cf4-3fc9-4854-919d-e182dbecd2fd",
+    "customer": "Kimberly Benson",
+    "product": "Eyeliner",
+    "price": 96.49,
+    "quantity": 3,
+    "timestamp": "2025-05-14T16:29:38.234050"
+  },
+  {
+    "order_id": "a9d6e28b-941f-4afd-80ab-af306da4ff05",
+    "customer": "Deborah Smith",
+    "product": "Moisturizer",
+    "price": 84.46,
+    "quantity": 2,
+    "timestamp": "2025-05-17T16:29:38.234098"
+  },
+  {
+    "order_id": "fab04ded-b02a-4600-9f51-fe6a99331a06",
+    "customer": "Jimmy Davis",
+    "product": "Serum",
+    "price": 60.58,
+    "quantity": 5,
+    "timestamp": "2025-05-14T16:29:38.234146"
+  },
+  {
+    "order_id": "25bb41ba-d1c3-4f90-8cb8-00a994e194ba",
+    "customer": "Danielle Wood",
+    "product": "Serum",
+    "price": 60.57,
+    "quantity": 1,
+    "timestamp": "2025-05-13T16:29:38.234194"
+  },
+  {
+    "order_id": "ef1aefa7-df44-4824-b5fd-19f9409c0e4a",
+    "customer": "Miss Laura Johnson",
+    "product": "Moisturizer",
+    "price": 36.0,
+    "quantity": 4,
+    "timestamp": "2025-05-15T16:29:38.234245"
+  },
+  {
+    "order_id": "0f7cc236-d479-4dd3-8c0b-d23290830037",
+    "customer": "Elizabeth Mckay",
+    "product": "Serum",
+    "price": 77.11,
+    "quantity": 1,
+    "timestamp": "2025-05-07T16:29:38.234294"
+  },
+  {
+    "order_id": "a7848743-b42a-4993-8039-c7d6af355d16",
+    "customer": "Patricia Walker",
+    "product": "Foundation",
+    "price": 57.79,
+    "quantity": 2,
+    "timestamp": "2025-05-12T16:29:38.234342"
+  },
+  {
+    "order_id": "447ecc61-26b2-4555-b349-8cb537683976",
+    "customer": "Shaun Sherman",
+    "product": "Moisturizer",
+    "price": 39.92,
+    "quantity": 1,
+    "timestamp": "2025-05-12T16:29:38.234389"
+  },
+  {
+    "order_id": "e6ca1e20-3c59-485b-b4e7-7a1c7b7cfcbe",
+    "customer": "Beth Smith",
+    "product": "Serum",
+    "price": 88.88,
+    "quantity": 2,
+    "timestamp": "2025-05-09T16:29:38.234438"
+  },
+  {
+    "order_id": "3a38c440-5005-4483-871c-4f834ffe0f98",
+    "customer": "Jason Gibson",
+    "product": "Lipstick",
+    "price": 16.42,
+    "quantity": 4,
+    "timestamp": "2025-05-14T16:29:38.234485"
+  },
+  {
+    "order_id": "474b367d-8904-48b1-b339-2c26d5d7cd55",
+    "customer": "Ashley Navarro",
+    "product": "Eyeliner",
+    "price": 95.85,
+    "quantity": 2,
+    "timestamp": "2025-05-12T16:29:38.234534"
+  }
+]
