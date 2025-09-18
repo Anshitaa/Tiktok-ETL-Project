@@ -16,7 +16,7 @@ This project simulates a real-world ETL pipeline and dashboard for TikTok Shop-s
 
 
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 tiktok-shop-etl-project/
@@ -37,7 +37,7 @@ tiktok-shop-etl-project/
 
 
 
-## 🧠 Key Features
+##  Key Features
 
 ✅ **Faker-based synthetic TikTok Shop orders**  
 ✅ **ETL pipeline in Python with psycopg2**  
@@ -47,7 +47,7 @@ tiktok-shop-etl-project/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️⃣ Clone the repo
 
